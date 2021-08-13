@@ -260,6 +260,26 @@ function Home(props) {
             </p>
           </Paper>
         </Grid>
+        <Grid item xs={12}>
+          <Paper className={classes.paper}>
+            <Typography
+              variant="h5"
+              component="h3"
+              className={classes.tituloInfo}
+            >
+              Todavía tenés preguntas?
+            </Typography>
+            <Typography
+              variant="h5"
+              component="h3"
+              className={classes.subtitulo}
+            >
+              <Link aria-label="Preguntas frequentes" to="/faq">
+                Mirá las preguntas frecuentes!
+              </Link>
+            </Typography>
+          </Paper>
+        </Grid>
       </Grid>
     </div>
   );
