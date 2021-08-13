@@ -274,7 +274,7 @@ function Home(props) {
               component="h3"
               className={classes.subtitulo}
             >
-              <Link aria-label="Preguntas frequentes" to="/faq">
+              <Link aria-label="Preguntas frecuentes" to="/faq">
                 Mirá las preguntas frecuentes!
               </Link>
             </Typography>

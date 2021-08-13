@@ -93,7 +93,7 @@ function DrawerContent(props) {
         />
         <ListItemLink
           to="/faq"
-          primary="Preguntas frequentes"
+          primary="Preguntas frecuentes"
           onClick={onLinkClick}
           icon={<FAQIcon />}
         />
