@@ -1,15 +1,16 @@
 import React from 'react';
 import Divider from '@material-ui/core/Divider';
 import List from '@material-ui/core/List';
-import ListItemLink from '../ListItemLink'
-import ExternalLinks from '../ExternalLinks'
+import ListItemLink from './ListItemLink';
+import ExternalLinks from './ExternalLinks';
 import SchoolOutlinedIcon from '@material-ui/icons/SchoolOutlined';
 import HomeOutlinedIcon from '@material-ui/icons/HomeOutlined';
 import ListAltIcon from '@material-ui/icons/ListAlt';
 import SvgIcon from '@material-ui/core/SvgIcon';
+import FAQIcon from '@material-ui/icons/HelpOutline';
 import { withStyles } from '@material-ui/core/styles';
 
-const styles = theme => ({
+const styles = (theme) => ({
   toolbar: {
     ...theme.mixins.toolbar,
     backgroundColor: theme.palette.primary.main,
@@ -30,8 +31,8 @@ const styles = theme => ({
       fontWeight: 'bold',
     },
     '& .MuiListItemText-root': {
-      marginBottom: '0'
-    }
+      marginBottom: '0',
+    },
   },
   nested: {
     '& .MuiButtonBase-root': {
@@ -39,7 +40,7 @@ const styles = theme => ({
     },
     '& .MuiTypography-root': {
       fontWeight: '500',
-    }
+    },
   },
   icon: {
     fill: 'inherit',
@@ -63,40 +64,51 @@ function ReactIcon() {
 }
 
 function DrawerContent(props) {
-  const { classes, onLinkClick } =   props;
-  
+  const { classes, onLinkClick } = props;
+
   return (
     <div>
       <div className={classes.toolbar}>
-        <ExternalLinks/>
+        <ExternalLinks />
       </div>
       <Divider />
       <List className={classes.list}>
-        <ListItemLink 
-          to="/" 
-          primary="Home" 
-          onClick={onLinkClick} 
-          icon={<HomeOutlinedIcon/>} 
+        <ListItemLink
+          to="/"
+          primary="Home"
+          onClick={onLinkClick}
+          icon={<HomeOutlinedIcon />}
         />
-        <ListItemLink 
-          to="/curso-javascript" 
-          primary="Curso" 
-          onClick={onLinkClick} 
-          icon={<SchoolOutlinedIcon/>} 
+        <ListItemLink
+          to="/curso-javascript"
+          primary="Curso"
+          onClick={onLinkClick}
+          icon={<SchoolOutlinedIcon />}
         />
-        <ListItemLink 
-          to="/clases-react" 
-          primary="Clases de React" 
-          onClick={onLinkClick} 
-          icon={<ReactIcon/>} 
+        <ListItemLink
+          to="/clases-react"
+          primary="Clases de React"
+          onClick={onLinkClick}
+          icon={<ReactIcon />}
         />
-        <ListItemLink 
-          to="/overview" 
-          primary="Overview" 
-          onClick={onLinkClick} 
-          icon={<ListAltIcon/>} 
+        <ListItemLink
+          to="/faq"
+          primary="Preguntas frequentes"
+          onClick={onLinkClick}
+          icon={<FAQIcon />}
         />
-        <ListItemLink onClick={onLinkClick} to="/codigo-de-conducta" primary="Código de conducta" icon={<PoliceBadgeIcon />} />
+        <ListItemLink
+          to="/overview"
+          primary="Overview"
+          onClick={onLinkClick}
+          icon={<ListAltIcon />}
+        />
+        <ListItemLink
+          onClick={onLinkClick}
+          to="/codigo-de-conducta"
+          primary="Código de conducta"
+          icon={<PoliceBadgeIcon />}
+        />
       </List>
     </div>
   );
