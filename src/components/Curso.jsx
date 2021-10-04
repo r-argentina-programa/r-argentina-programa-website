@@ -1,13 +1,13 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { useFetchPlaylist } from '../../utils/api';
-import ClaseCard from '../ClaseCard';
+import { useFetchPlaylist } from '../utils/api';
+import ClaseCard from './ClaseCard';
 import Typography from '@material-ui/core/Typography';
 import Grid from '@material-ui/core/Grid';
 import { makeStyles } from '@material-ui/core/styles';
 import CircularProgress from '@material-ui/core/CircularProgress';
 
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles((theme) => ({
   root: {
     textAlign: 'center',
   },
@@ -56,7 +56,7 @@ const Curso = ({ react = false }) => {
         </div>
       ) : (
         <Grid container className={classes.grid} spacing={3}>
-          {clases.map(clase => (
+          {clases.map((clase) => (
             <ClaseCard key={clase.id} clase={clase} />
           ))}
         </Grid>

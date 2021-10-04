@@ -3,8 +3,8 @@ import { Avatar, Typography, Grid, Paper } from '@material-ui/core';
 import { red, blue, teal } from '@material-ui/core/colors';
 import { withStyles } from '@material-ui/core/styles';
 import { Link } from 'react-router-dom';
-import logo from '../../img/logo.jpg';
-import slackData from '../../data/slack.json';
+import logo from '../img/logo.jpg';
+import slackData from '../data/slack.json';
 
 const styles = (theme) => ({
   root: {
@@ -258,6 +258,26 @@ function Home(props) {
               </a>
               .
             </p>
+          </Paper>
+        </Grid>
+        <Grid item xs={12}>
+          <Paper className={classes.paper}>
+            <Typography
+              variant="h5"
+              component="h3"
+              className={classes.tituloInfo}
+            >
+              Todavía tenés preguntas?
+            </Typography>
+            <Typography
+              variant="h5"
+              component="h3"
+              className={classes.subtitulo}
+            >
+              <Link aria-label="Preguntas frecuentes" to="/faq">
+                Mirá las preguntas frecuentes!
+              </Link>
+            </Typography>
           </Paper>
         </Grid>
       </Grid>

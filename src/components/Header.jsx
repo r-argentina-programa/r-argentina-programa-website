@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import ExternalLinks from '../ExternalLinks';
+import ExternalLinks from './ExternalLinks';
 import IconButton from '@material-ui/core/IconButton';
 import MenuIcon from '@material-ui/icons/Menu';
 import AppBar from '@material-ui/core/AppBar';
@@ -9,7 +9,7 @@ import Typography from '@material-ui/core/Typography';
 import Hidden from '@material-ui/core/Hidden';
 import { makeStyles } from '@material-ui/core/styles';
 
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles((theme) => ({
   appBar: {
     [theme.breakpoints.up('md')]: {
       width: '100%',
@@ -54,12 +54,12 @@ function Header(props) {
             r/Argentina Programa
           </Typography>
           <Hidden xsDown implementation="css">
-            <ExternalLinks/>
+            <ExternalLinks />
           </Hidden>
         </Toolbar>
       </AppBar>
     </React.Fragment>
-  )
+  );
 }
 
 Header.propTypes = {

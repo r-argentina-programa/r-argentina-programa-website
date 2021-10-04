@@ -10,7 +10,7 @@ import CloseIcon from '@material-ui/icons/Close';
 import Slide from '@material-ui/core/Slide';
 import PropTypes from 'prop-types';
 
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles((theme) => ({
   appBar: {
     position: 'relative',
   },
@@ -27,12 +27,12 @@ const useStyles = makeStyles(theme => ({
     },
   },
   videoWrapper: {
-	  position: 'relative',
-	  paddingBottom: '56.25%', /* 16:9 */
-	  paddingTop: '25px',
+    position: 'relative',
+    paddingBottom: '56.25%' /* 16:9 */,
+    paddingTop: '25px',
     height: '0',
     marginTop: theme.spacing(3),
-	  overflow: 'hidden',
+    overflow: 'hidden',
     '& iframe': {
       position: 'absolute',
       top: '0',
@@ -44,7 +44,7 @@ const useStyles = makeStyles(theme => ({
         width: 640,
         height: 360,
       },
-    }
+    },
   },
 }));
 
@@ -52,14 +52,24 @@ const Transition = React.forwardRef(function Transition(props, ref) {
   return <Slide direction="up" ref={ref} {...props} />;
 });
 
-const ClaseDialog = ({handleClose, open, title, videoId}) => {
+const ClaseDialog = ({ handleClose, open, title, videoId }) => {
   const classes = useStyles();
 
   return (
-    <Dialog fullScreen open={open} onClose={handleClose} TransitionComponent={Transition}>
+    <Dialog
+      fullScreen
+      open={open}
+      onClose={handleClose}
+      TransitionComponent={Transition}
+    >
       <AppBar className={classes.appBar}>
         <Toolbar>
-          <IconButton edge="start" color="inherit" onClick={handleClose} aria-label="close">
+          <IconButton
+            edge="start"
+            color="inherit"
+            onClick={handleClose}
+            aria-label="close"
+          >
             <CloseIcon />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
@@ -74,13 +84,13 @@ const ClaseDialog = ({handleClose, open, title, videoId}) => {
       </div>
     </Dialog>
   );
-}
+};
 
 ClaseDialog.propTypes = {
   handleClose: PropTypes.func.isRequired,
   open: PropTypes.bool.isRequired,
   videoId: PropTypes.string.isRequired,
-  title: PropTypes.string.isRequired, 
+  title: PropTypes.string.isRequired,
 };
 
 export default ClaseDialog;
