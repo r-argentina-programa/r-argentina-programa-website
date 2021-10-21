@@ -8,6 +8,7 @@ import HomeOutlinedIcon from '@material-ui/icons/HomeOutlined';
 import ListAltIcon from '@material-ui/icons/ListAlt';
 import SvgIcon from '@material-ui/core/SvgIcon';
 import FAQIcon from '@material-ui/icons/HelpOutline';
+import WorkIcon from '@material-ui/icons/WorkOutline';
 import { withStyles } from '@material-ui/core/styles';
 
 const styles = (theme) => ({
@@ -96,6 +97,12 @@ function DrawerContent(props) {
           primary="Preguntas frecuentes"
           onClick={onLinkClick}
           icon={<FAQIcon />}
+        />
+        <ListItemLink
+          to="/testimonios"
+          primary="Testimonios"
+          onClick={onLinkClick}
+          icon={<WorkIcon />}
         />
         <ListItemLink
           to="/overview"
