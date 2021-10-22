@@ -10,6 +10,7 @@ import {
 } from '@material-ui/core';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import slackData from '../data/slack.json';
+import { Link } from 'react-router-dom';
 
 const useStyles = makeStyles((theme) => ({
   heading: {
@@ -346,6 +347,14 @@ export default function FAQ() {
             conseguir trabajo. Tenemos muchas historias de gente con 30, 35, 40
             años que han conseguido trabajo de desarrollador, después de años de
             dedicarse a rubros completamente diferentes.
+          </Typography>
+          <Typography className={classes.paragraph}>
+            Si no nos creés, podés revisar nuestra{' '}
+            <Link aria-label="Testimonios" to="/testimonios">
+              página de testimonios
+            </Link>
+            , donde podés leer sobre gente del curso que ya consiguió trabajo de
+            desarrollador!
           </Typography>
         </AccordionDetails>
       </Accordion>

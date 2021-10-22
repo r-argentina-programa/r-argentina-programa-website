@@ -280,6 +280,26 @@ function Home(props) {
             </Typography>
           </Paper>
         </Grid>
+        <Grid item xs={12}>
+          <Paper className={classes.paper}>
+            <Typography
+              variant="h5"
+              component="h3"
+              className={classes.tituloInfo}
+            >
+              Necesitás motivación?
+            </Typography>
+            <Typography
+              variant="h5"
+              component="h3"
+              className={classes.subtitulo}
+            >
+              <Link aria-label="Testimonios" to="/testimonios">
+                Mirá los testimonios de usuarios que ya consiguieron trabajo!
+              </Link>
+            </Typography>
+          </Paper>
+        </Grid>
       </Grid>
     </div>
   );
