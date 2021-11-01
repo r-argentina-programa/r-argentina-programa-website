@@ -134,5 +134,15 @@ En cuanto al primer empleo en el mundo IT creo que todos pasamos por la misma ex
     Para ser honesto, no me resultó fácil encontrarlo ya que veía que había muchos programadores trainee/junior en la misma posición que yo. En mi caso esto fue al año de haber comenzado el curso mediante un post en la comunidad de r/empleos_AR, después de haber buscado bastante por LinkedIn.
     Comencé como desarrollador Front-End trabajando con React (que lo había visto acá mismo y por mi cuenta) para una pequeña empresa del exterior, trabajo completamente remoto. Más allá que me haya costado insertarme en el rubro, creo que el esfuerzo valió mucho la pena.`,
   },
+  {
+    nombre: 'Francisco Prince',
+    localidad: 'La Plata, Buenos Aires',
+    edad: 34,
+    puesto: 'Software Development Analyst',
+    testimonio: `Empecé este curso alrededor de octubre de 2019, con algunos conocimientos de HTML y CSS, porque ya había hecho webs estáticas, pero nunca había escrito una línea de Javascript.
+    Le dediqué 5 meses a estudiar intensamente mientras trabajaba (el trabajo me lo permitía en ese momento), llegué a la clase 15 o 16, y a partir de ahí empecé a experimentar con varios proyectos propios, y tratar de aplicar lo que había aprendido, usando el Slack para consultar mis dudas. Me enfoqué en React porque me gustó muchísimo (no sabía de qué se trataba antes de ver las clases de Juli).
+    Los siguientes meses fueron de tratar de hacer proyectos, usar Twitter para hacer networking, y aprender cómo se usaban las herramientas con las que trabaja un dev todos los días. A fines de diciembre del 2020 me propuse encontrar trabajo, y empecé a mandar CVs y postularme para diferentes posiciones. Tuve varias entrevistas, pero en la primera que tuve (en Globant) me confirmaron que había quedado como Junior Advance, aunque para trabajar en una tecnología que no conocía (y no me interesaba), entonces lo rechacé.
+    Tuve varias entrevistas más sin suerte, hasta que en marzo/abril de este año, alguien que conocí en Twitter, me refirió en Mercado Libre. Después de algunas entrevistas (y un challenge) me hicieron una oferta y en mayo ingresé como Software development analyst (Junior).`,
+  },
 ];
 export default testimonios;
