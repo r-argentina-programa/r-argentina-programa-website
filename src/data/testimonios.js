@@ -144,5 +144,28 @@ En cuanto al primer empleo en el mundo IT creo que todos pasamos por la misma ex
     Los siguientes meses fueron de tratar de hacer proyectos, usar Twitter para hacer networking, y aprender cómo se usaban las herramientas con las que trabaja un dev todos los días. A fines de diciembre del 2020 me propuse encontrar trabajo, y empecé a mandar CVs y postularme para diferentes posiciones. Tuve varias entrevistas, pero en la primera que tuve (en Globant) me confirmaron que había quedado como Junior Advance, aunque para trabajar en una tecnología que no conocía (y no me interesaba), entonces lo rechacé.
     Tuve varias entrevistas más sin suerte, hasta que en marzo/abril de este año, alguien que conocí en Twitter, me refirió en Mercado Libre. Después de algunas entrevistas (y un challenge) me hicieron una oferta y en mayo ingresé como Software development analyst (Junior).`,
   },
+  {
+    nombre: 'Diego Castro',
+    localidad: 30,
+    edad: 'Puerto Madryn, Chubut',
+    puesto: 'Software developer',
+    testimonio: `Me enteré del curso por el post de Fabricio en reddit y lo empecé en noviembre 2020. Mientras buscaba trabajo como ingeniero industrial recién recibido, estudiaba programación porque me llamaba mucho la atención y para sumar más habilidades. Al ver que me estaba costando demasiado encontrar alguna entrevista como ingeniero, empece a meterle más a la programación.
+    En ese momento me di cuenta que esto era lo mío y que me quería dedicar a esto ya que lo disfruto bastante. Un año despues de estudiar de forma intermitente, empecé a buscar trabajo como developer, y luego de varias entrevistas fallidas finalmente quedé como software dev en una empresa.
+    Agradecido de por vida a Julián y Fabricio por armar el curso y esta comunidad tan linda`,
+  },
+  {
+    nombre: 'Julián Lannóo',
+    localidad: 'Rosario, Santa Fe',
+    edad: 21,
+    puesto: 'Desarrollador Fullstack en Aenima Agency',
+    testimonio: `Siempre me gustó la tecnología y me interesó la programación, así que cuando entre al curso ya mas o menos tenía una idea de programar.
+    En 2018 empecé a estudiar Ingeniería en Sistemas y en los años anteriores ya había empezado a toquetear cositas con JS, HTML y CSS.
+    En 2019 me cruce el posteo en Reddit del curso y me copó. Cuando empecé, las bases ya las sabía así que era solamente refrescar la memoria.
+    Pero a partir de la clase 5 o 6 fue cuando de verdad empecé a aprender y cuando se empezó a empinar el camino.
+    Me confié con que ya sabía y las cosas se me empezaron a complicar un toque pero con la ayuda de los mentores y el resto de gente que estaba haciendo las cosas se pudieron hacer sin demasiado problema.
+    Ese mismo año tuve que dejar medio de lado el curso por tema de facultad, muchos exámenes y poco tiempo. Cuando perdí el envión se mi hizo durísimo volver, por lo que durante 2020 no toque nada del curso.
+    En 2021 me propuse conseguir laburo y volví a hacer cositas del curso, sobre todo la parte de React y lo que es back-end. Tiré curriculums un par de meses hasta que me salió un contacto.
+    Me evaluaron, con la ayuda del grupo pude lograr cumplir con lo que pedían, aunque costó y conseguí mi primer laburo como desarrolador Fullstack`,
+  },
 ];
 export default testimonios;
