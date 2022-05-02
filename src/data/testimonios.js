@@ -146,8 +146,8 @@ En cuanto al primer empleo en el mundo IT creo que todos pasamos por la misma ex
   },
   {
     nombre: 'Diego Castro',
-    localidad: 30,
-    edad: 'Puerto Madryn, Chubut',
+    localidad: 'Puerto Madryn, Chubut',
+    edad: 30,
     puesto: 'Software developer',
     testimonio: `Me enteré del curso por el post de Fabricio en reddit y lo empecé en noviembre 2020. Mientras buscaba trabajo como ingeniero industrial recién recibido, estudiaba programación porque me llamaba mucho la atención y para sumar más habilidades. Al ver que me estaba costando demasiado encontrar alguna entrevista como ingeniero, empece a meterle más a la programación.
     En ese momento me di cuenta que esto era lo mío y que me quería dedicar a esto ya que lo disfruto bastante. Un año despues de estudiar de forma intermitente, empecé a buscar trabajo como developer, y luego de varias entrevistas fallidas finalmente quedé como software dev en una empresa.
@@ -166,6 +166,16 @@ En cuanto al primer empleo en el mundo IT creo que todos pasamos por la misma ex
     Ese mismo año tuve que dejar medio de lado el curso por tema de facultad, muchos exámenes y poco tiempo. Cuando perdí el envión se mi hizo durísimo volver, por lo que durante 2020 no toque nada del curso.
     En 2021 me propuse conseguir laburo y volví a hacer cositas del curso, sobre todo la parte de React y lo que es back-end. Tiré curriculums un par de meses hasta que me salió un contacto.
     Me evaluaron, con la ayuda del grupo pude lograr cumplir con lo que pedían, aunque costó y conseguí mi primer laburo como desarrolador Fullstack`,
+  },
+  {
+    nombre: 'Patrick Raedler',
+    localidad: 'Florencia, Toscana, Italia',
+    edad: 25,
+    puesto: 'Front-End Developer en Heveloon LTD.',
+    testimonio: `Empece a estudiar este curso en Junio del 2021 despues de que un amigo que lo estaba haciendo me lo recomendo. Venia laburando de mozo desde hace 6 años y venia muy cansado de el laburo en gastronomia asi que decidi a ponerme a estudiar.
+    Desde la primera clase me encanto programar asi que me planifique los dias para estudiar a la mañana antes de ir a trabajar y asi poder por lo menos estudiar un poco todos los dias.
+    Llegado a la clase 14, decidi empezar a estudiar Vue por que me gustaba la filosofia y el tipo de estructura que mantenia la framework. Esto me llevo a meterme en muchos grupos de Discord y Telegram,  de aficionados de Vue y asi poder encontrar mi primero trabajo en Abril del 2022, hablando con gente y enviando mi perfil de GitHub donde tenia todos los proyectos cargados.
+    Si lo tuviera que hacer todo devuelta lo haria. El trabajo de programador es genial y mi estilo de vida cambio para mejor. Lo mas importante al mi parecer es ser constante, explorar lo que a uno le interesa y hacer muchas preguntas cuando algo no se entiende.`,
   },
 ];
 export default testimonios;
