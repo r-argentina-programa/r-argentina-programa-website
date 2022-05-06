@@ -177,5 +177,14 @@ En cuanto al primer empleo en el mundo IT creo que todos pasamos por la misma ex
     Llegado a la clase 14, decidi empezar a estudiar Vue por que me gustaba la filosofia y el tipo de estructura que mantenia la framework. Esto me llevo a meterme en muchos grupos de Discord y Telegram,  de aficionados de Vue y asi poder encontrar mi primero trabajo en Abril del 2022, hablando con gente y enviando mi perfil de GitHub donde tenia todos los proyectos cargados.
     Si lo tuviera que hacer todo devuelta lo haria. El trabajo de programador es genial y mi estilo de vida cambio para mejor. Lo mas importante al mi parecer es ser constante, explorar lo que a uno le interesa y hacer muchas preguntas cuando algo no se entiende.`,
   },
+  {
+    nombre: 'Emmanuel Martinez',
+    localidad: 'Bariloche, Rio Negro',
+    edad: 23,
+    puesto: 'Fullstack Developer en Enve Labs',
+    testimonio: `Rebotando entre grupos y cursos de programación encontré r/Argentina Programa, eso fue en el 2021 cuando arranque la carrera de sistemas, vi la primera clase por curiosidad y me gusto toda la dinámica, las explicaciones de Fabricio sumado a que puedas tener un feedback constante a traves de Slack es fenomenal, asi que simplemente fui completando las clases y dándome la cabeza contra el teclado.
+    Había llegado al punto en el que le dedicaba mucho mas tiempo a este curso que a la universidad y no me arrepiento. Luego de 8 meses aproximadamente, laburando medio tiempo arreglando radiadores y con la clase 17 terminada, conseguí laburo en la empresa Enve Labs, básicamente les mostré y conte todo lo que había aprendido y les gusto mucho, así que ahora trabajo ahí como fullstack developer, me enseñan ingles, otros tipos de soft skills y logicas de negocio.
+    Para siempre muy agradecido con este curso y su gente.`,
+  },
 ];
 export default testimonios;
