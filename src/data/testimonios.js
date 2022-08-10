@@ -186,5 +186,14 @@ En cuanto al primer empleo en el mundo IT creo que todos pasamos por la misma ex
     Había llegado al punto en el que le dedicaba mucho mas tiempo a este curso que a la universidad y no me arrepiento. Luego de 8 meses aproximadamente, laburando medio tiempo arreglando radiadores y con la clase 17 terminada, conseguí laburo en la empresa Enve Labs, básicamente les mostré y conte todo lo que había aprendido y les gusto mucho, así que ahora trabajo ahí como fullstack developer, me enseñan ingles, otros tipos de soft skills y logicas de negocio.
     Para siempre muy agradecido con este curso y su gente.`,
   },
+  {
+    nombre: 'Benjamin Bascary',
+    localidad: 'General Roca, Rio Negro, Argentina',
+    edad: 24,
+    puesto: 'Junior fullstack developer',
+    testimonio: `Cineasta > Panadero > Profesor de Inglés > Desarrollador Web
+    Terminada la pandemia me encontraba estancado profesionalmente y renegado a volver al mundo explotador del cine y los trabajos manuales mal pagos. Descubrí el curso a mediados de enero de 2022 y desde el primer dia no pare de estudiar. Con las metas claras desde el principio y con el sueño de vivir mejor pude conseguir un trabajo como fullstack developer en Patagonian.
+    Las herramientas técnicas, la seriedad y soft skills que aprendí con fabricio y tutores fueron mas que suficientes e invaluables en mi camino hasta acá, por lo que estaré siempre agradecido.`,
+  },
 ];
 export default testimonios;
