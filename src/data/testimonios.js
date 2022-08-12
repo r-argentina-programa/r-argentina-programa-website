@@ -195,5 +195,15 @@ En cuanto al primer empleo en el mundo IT creo que todos pasamos por la misma ex
     Terminada la pandemia me encontraba estancado profesionalmente y renegado a volver al mundo explotador del cine y los trabajos manuales mal pagos. Descubrí el curso a mediados de enero de 2022 y desde el primer dia no pare de estudiar. Con las metas claras desde el principio y con el sueño de vivir mejor pude conseguir un trabajo como fullstack developer en Patagonian.
     Las herramientas técnicas, la seriedad y soft skills que aprendí con fabricio y tutores fueron mas que suficientes e invaluables en mi camino hasta acá, por lo que estaré siempre agradecido.`,
   },
+  {
+    nombre: 'Juan Avero',
+    localidad: 'Rosario, Santa Fé',
+    edad: 18,
+    puesto: 'Fullstack Developer',
+    testimonio: `Comencé a aprender programación a principios de 2020. Siempre me había gustado el tema de la tecnología pero nunca había entrado a detalle, hasta que llegó la cuarentena y con el tiempo libre que tenia comencé con las clases de r/argentina-programa.
+    La modalidad de las clases me enganchó bastante rápido, y tener un grupo con el que poder contar para pedir ayuda cuando me trababa en algo fue fundamental para seguir aprendiendo.
+    Seguí aprendiendo por diversión otras tecnologías a la par del curso, y haciendo proyectos para aplicar lo que iba aprendiendo.
+    En agosto de 2022, luego de trabajar 6 meses en un proyecto para un cliente, llegue a mi trabajo actual como fullstack developer, en su mayor parte gracias a r/argentina-programa.`,
+  },
 ];
 export default testimonios;
