@@ -23,7 +23,7 @@ const testimonios = [
     testimonio: `Tengo 42 años y hace un año que me dedico profesionalmente al desarrollo.
     Si bien siempre fui apasionado de la tecnología, nunca lo habia pensado como salida laboral hasta que encontré r/argentinaPrograma y decidí aprender Javascript con Fabricio y luego React con Julián.
     Soy licenciado de administración de empresas y trabajé mucho tiempo en administración hotelera, luego seguí el camino de la docencia con el profesorado de historia, donde ejercí 8 años dando clases en escuela secundaria, y ahora me dedico fulltime a desarrollo front-end con Angular.
-    Llegué hasta la clase 16 y allí empecé a aplicar para posiciones abiertas, luego de 4 entrevistas finalmente fui contratado en mi trabajo actual, donde formo parte del equipo de desarrollo de SitioSimple.com, una plataforma de e-commerce propiedad de Donweb, empresa líder en servicios de hosting en Latinoamérica`,
+    Llegué hasta la clase 16 y allí empecé a aplicar para posiciones abiertas, luego de 4 entrevistas finalmente fui contratado en mi primer trabajo como desarrollador. Actualmente formo parte del equipo de Plan A Technologies, startup de USA que desarrolla proyectos para la industria del entretenimiento.
   },
   {
     nombre: 'Nacho Caiafa',
