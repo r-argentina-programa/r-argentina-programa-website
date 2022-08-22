@@ -205,5 +205,20 @@ En cuanto al primer empleo en el mundo IT creo que todos pasamos por la misma ex
     Seguí aprendiendo por diversión otras tecnologías a la par del curso, y haciendo proyectos para aplicar lo que iba aprendiendo.
     En agosto de 2022, luego de trabajar 6 meses en un proyecto para un cliente, llegue a mi trabajo actual como fullstack developer, en su mayor parte gracias a r/argentina-programa.`,
   },
+  {
+    nombre: 'Gerardo R.',
+    localidad: 'Posadas, Misiones',
+    edad: 24,
+    puesto: 'Software Developer',
+    testimonio: `<b>De estudiante de Contador Público a Programador</b>
+    Después de terminar la secundaria, estudie para ser contador público por 6 años, siempre me gusto la tecnología, pero no sabía nada de que era ser un programador y siempre pensé que se necesitaba el título de ingeniero SI o SI para trabajar de programador.
+    Un día vi en Reddit el post de Fabricio contando sobre el curso. Unos meses después de ver el post, un fin de semana empece el curso, lo hice hasta la clase 4 o 5 pero sin entrar al canal de Slack.
+    En ese momento yo todavía quería ser contador, por lo que me di cuenta de que las tecnologías que se daban en el curso no apuntaban a lo que yo quería (Algo más relacionados con datos o automatización) y termine dejando el curso.
+    Luego cuando llego la pandemia, tenía más tiempo y volví a empezar otra vez el curso, otra vez desde 0, con cada clase que hacía me daba cuenta de que en el futuro quería trabajar de programador y no de contador, por lo que decidí dejar la carrera y enfocarme 100% a aprender a programar.
+    Al comienzo no podía programar más de 15 minutos o 1 hora porque me frustraba y dejaba, pero poco a poco y con la ayuda de la hermosa comunidad que hay en Slack, siempre que me sentía trabado o frustrado con un problema, alguien estaba para ayudarme.
+    Empece en mayo de 2021 y en agosto de 2022 conseguí trabajo.
+    Quisiera agradecerle a Fabricio de crear este curso, y por responder las 10000 preguntas que hice, a Julián por enseñar React y siempre estar para dar una mano.
+    Y por último agradecer a toda la comunidad de Slack, como le dije una vez a Fabricio: “El curso es excelente, pero esta comunidad vale oro”, siempre hay gente con la mejor onda dispuesta a ayudarte a resolver problemas o a mejorar tus proyectos.`,
+  },
 ];
 export default testimonios;
