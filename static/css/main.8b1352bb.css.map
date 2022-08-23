@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.8b1352bb.css","mappings":"AAAA,KACE,QACF,CAEA,QAGE,cACF,CAEA,GACE,iBACF","sources":["index.css"],"sourcesContent":["body {\n  margin: 0;\n}\n\np,\nul,\nol {\n  font-size: 1rem;\n}\n\nli {\n  margin-bottom: 8px;\n}\n"],"names":[],"sourceRoot":""}
