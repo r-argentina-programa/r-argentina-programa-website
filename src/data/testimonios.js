@@ -220,5 +220,21 @@ En cuanto al primer empleo en el mundo IT creo que todos pasamos por la misma ex
     Quisiera agradecerle a Fabricio de crear este curso, y por responder las 10000 preguntas que hice, a Julián por enseñar React y siempre estar para dar una mano.
     Y por último agradecer a toda la comunidad de Slack, como le dije una vez a Fabricio: “El curso es excelente, pero esta comunidad vale oro”, siempre hay gente con la mejor onda dispuesta a ayudarte a resolver problemas o a mejorar tus proyectos.`,
   },
+  {
+    nombre: 'Sergio Tkaczek',
+    localidad: 'Ciudad de Mendoza, Mendoza',
+    edad: 27,
+    puesto: 'Node/React Developer',
+    testimonio: `Allá por septiembre de 2019 me encontré con el post de Fabri en Reddit que empezó todo.
+    Este post me agarró con 27 años, recién recibido de abogado y con una tormenta vocacional importante. El ejercicio de esa profesión no me llenaba, no consideraba que estaba haciendo algo importante, interesante o desafiante.
+    Desde chico que me gustan las computadoras y siempre me interesó mucho saber cómo se creaba un programa o aplicación, pero por diversos motivos nunca le di una oportunidad en serio.
+    Unos dos años antes de empezar acá, había hecho un curso super básico de Java en la UTN de Mendoza, y me encantó, pero por ese entonces me encontraba con un trabajo casi full time y cursando la carrera, lo que sumado a que vivía solo, se me hacía imposible buscar otra actividad extra, como lo era estudiar programación.
+    Ya recibido me ví en esta insatisfacción laboral y decidí darle una oportunidad a este curso.
+    Si bien lo fui llevando de a poco -ya que lo empecé a modo de hobby, porque aparte de mi trabajo casi full time, se sumó el ejercicio de mi nueva profesión-, no fue hasta fines de 2020 e inicios de 2021 cuando me decidí a intentar hacer un cambio de carrera donde realmente me metí de cabeza ya si, para buscar trabajo.
+    Hice una gran apuesta en dejar uno de mis trabajos y reduje mi actividad profesional más de un 50% para poder abocarme a estudiar. En noviembre de 2021, tras muchos meses de sacrificio, pude conseguir mi primer puesto de Fullstack Developer.
+    Ya con mucho material estudiado, leído, y visto; puedo decir con confianza que este curso es oro puro. Por un lado la comunidad que se armó es increíble, si empezás el curso más de dos años después, se siguen corrigiendo las tareas, haciendo aportes, ayudando en el camino de conseguir trabajo, aportando al crecimiento profesional.
+    Por otro lado, las clases son realmente magistrales. Fabri no solo es un capo programador, es un capo explicando. Te tiras las perlitas que se aprenden con los años, desde el vamos. Juli groso con sus clases de React, y programación funcional que son claves en ese campo.
+    Me considero muy afortunado de poder haber conocido esta comunidad, y poder ser miembro de ella. Si bien el esfuerzo es de uno, del otro lado hay una oportunidad, una ayuda y un apoyo realmente increíble. Gracias argentina programa por ayudarme a cambiar mi vida :).`,
+  },
 ];
 export default testimonios;
