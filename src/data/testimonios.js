@@ -236,5 +236,18 @@ En cuanto al primer empleo en el mundo IT creo que todos pasamos por la misma ex
     Por otro lado, las clases son realmente magistrales. Fabri no solo es un capo programador, es un capo explicando. Te tiras las perlitas que se aprenden con los años, desde el vamos. Juli groso con sus clases de React, y programación funcional que son claves en ese campo.
     Me considero muy afortunado de poder haber conocido esta comunidad, y poder ser miembro de ella. Si bien el esfuerzo es de uno, del otro lado hay una oportunidad, una ayuda y un apoyo realmente increíble. Gracias argentina programa por ayudarme a cambiar mi vida :).`,
   },
+  {
+    nombre: 'Tomás Paez Sartore',
+    localidad: 'Córdoba',
+    edad: 29,
+    puesto: 'Software Developer',
+    testimonio: `Yo comienzo a estudiar programación por mi cuenta en Julio del 2021. Luego de varios meses de estudio sobre los fundamentos de la programación quiero empezar a construir cosas un poco mas cercanas a proyectos reales y me encuentro con una gran necesidad: la de poder preguntarle a gente mas experimentada (y en castellano idealmente) dudas puntuales que me van surgiendo, las cuales son muy pequeñas como para hacer un post en algun blog como stack overflow por ej.
+     Empiezo a googlear comunidades de programación y llego a la página oficial de Argentina Programa. Empiezo a chusmear las clases de Youtube y pinta bárbaro; y ademas me entero de la existencia de Slack, y que hay una comunidad y canales donde participar y recibir ayuda de otros estudiantes/developers ya profesionales
+     Con respecto a las clases:
+     No solo están bien dictadas, sino que el approach de Fabricio es incisivo: no es simplemente aprender un lenguaje o a hacer una página, sino que se enseñan formas de pensar como programador, buenas practicas a aplicar, el porqué de las mismas, y muchas otras cosas que gralmente no se ven en el grueso de los tutoriales/cursos de los cuales hay millones dando vueltas por ahí. Fabricio con su experiencia transmite lo que él bien sabe que performa y funciona en aplicaciones que sirven a casos de negocio reales.
+     Con respecto al canal de Slack:
+     La comunidad es excelente y hay gente de todas las edades/experiencias, con distintos backgrounds laborales, culturales, etc. Siempre hay gente dando una mano con las tareas y ayudando cuando surgen dudas, lo cual me parece que no tiene precio. El intercambio es rico y el ambiente excelente.
+     Ayer (septiembre del 2022) recibo mi primer oferta laboral y puedo asegurar que las clases y la comunidad fueron una parte muy muy fuerte de mi proceso de formación y con gusto voy a seguir formando parte y ayudando a los que  se incorporen en el futuro!`,
+  },
 ];
 export default testimonios;
