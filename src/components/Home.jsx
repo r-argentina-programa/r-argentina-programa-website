@@ -111,6 +111,11 @@ function Home(props) {
               Este es un curso para aprender JavaScript desde 0, gratis y en
               español.
             </Typography>
+            <a target="_blank" rel="noopener noreferrer" href={slackLink}>
+              <Typography component="p" variant="h5">
+                Unite al canal de Slack
+              </Typography>
+            </a>
           </Paper>
         </Grid>
         <Grid item xs={12}>
