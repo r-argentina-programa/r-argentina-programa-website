@@ -265,5 +265,49 @@ En cuanto al primer empleo en el mundo IT creo que todos pasamos por la misma ex
     Quería agradecer todo el laburo y la pila que le ponen Fabricio, Julián, los mentores y la comunidad para dar respuesta, ayuda y seguimiento a toda la gente que quiere arrancar en este mundo. Haberlo hecho parcialmente me permitió llegar a donde estoy ahora y darle un cambio a mi estilo de vida que nunca creí posible, a pesar de los días de estrés y cosas que no salen en el trabajo me despierto con ganas y encaro la mañana de una forma diferente.
     Muchísimas gracias por todo, es increíble lo que esta comunidad te brinda y podés lograr si le dedicás esfuerzo.`,
   },
+  {
+    nombre: 'Luis Vergera',
+    localidad: 'Buenos Aires',
+    puesto: 'Software Developer',
+    testimonio: `Hace 2 años vi el post original de reddit y si bien siempre me gusto la computación pensaba que la programación era algo inalcanzable para mi, pero con el curso y la manera de explicar de Fabri me entusiasme y llegue hasta la clase 7, luego por cuestiones de la vida y problemas personales deje todo de lado pero siempre me quedaron ganas de volver y dedicarme a esto.
+  Me encontraba estancado en un trabajo repetitivo y que no me generaba satisfacciones y fue asi como a fines de diciembre del 2021 me decidí a retomar desde 0 y avanzar a mi propio ritmo para llegar lo mas lejos posible y prepararme para buscar trabajo; la comunidad siempre estuvo para ayudarme y gracias a todos ellos (y la paciencia infinita de Fabricio y Julian) pude llegar hasta las ultimas clases.
+  Al mismo tiempo Fabri estaba planeando todo el sistema de pasantías y fue cuando se creo ScaleMote, fui de los primeros afortunados en ingresar y actualmente me encuentro trabajando en un proyecto con un ambiente de laburo excelente, donde aprendo continuamente y trabajo de lo que me gusta!
+  Debo añadir que el curso es excelente, tiene una curva de aprendizaje muy bien planeada y no solo enseña las bases sino que entra en detalle en varios temas que no se ven en otros cursos y que sirven en un ambiente de trabajo real.
+  Nuevamente quiero agradecer a todas las personas que conforman esta comunidad!`,
+  },
+  {
+    nombre: 'Rodrigo Fernández',
+    localidad: 'Buenos Aires',
+    edad: 29,
+    puesto: 'Software Developer',
+    testimonio: `Estudié ingeniería eléctrica y trabajé como ingeniero durante 5 años como integrador de software de monitoreo de energía eléctrica para una empresa grande en capital. Esa fue la primera vez que me encontré con el mundo del desarrollo de software y me di cuenta de que era lo que realmente quería hacer.
+
+    A mediados de 2021 comencé a estudiar por mi cuenta con recursos en línea (principalmente freecodecamp) pero no sentía que estaba aprendiendo nada que fuera útil a nivel profesional.
+
+    Encontré este curso a principios de 2022 por pura casualidad y desde la primera clase me encantó. Si bien yo ya tenía algunos conceptos básicos de programación, aprendí mucho sobre por qué y cómo hacer las cosas. Además, me encantó el enfoque de usar desde el día 0 lo que se usa para trabajar.
+
+    Además del tremendo curso, como alguien que había estado estudiando por mi cuenta, la comunidad r/argentina fue invaluable. Sinceramente, no podía creer que siempre haya alguien dispuesto a dar una mano o responder una consulta.
+
+    Para completar, a finales de 2022 cuando estaba en las clases de 17/18, Fabri me ofreció empezar a trabajar en proyectos de ScaleMote y a partir de ahí mi vida cambió por completo.
+
+    Para los que se lo estén pensando y quieran dar el paso, les digo que se puede. Trabajando 9 horas, con chicos, acá van a encontrar todas las herramientas que puedan necesitar y mucho más! Recomiendo el curso a toda la gente que conozco que está intentando entrar en el mundo de la programación.
+    Nuevamente quiero agradecer a todas las personas que conforman esta comunidad!`,
+  },
+  {
+    nombre: 'Lautaro Moreno',
+    localidad: 'Santa Fe',
+    edad: 24,
+    puesto: 'Software Developer',
+    testimonio: `Soy Lautaro, tengo 24 años y post secundaría me dedique a estudiar Economía hasta 4 año de la facultad.
+
+    A principio del 2022 comencé a divagar entre seguir estudiando economía o poder afianzarme con programación ya que me gustaba todo lo relacionado a tecnología y poder crear aplicaciones.
+    Entonces hice un curso de Python por Udemy, lo terminé pero no me había terminado de convencer el formato del curso..
+
+    Así que me puse a investigar distintos cursos, entre ellos aparecieron Coderhouse, soyHenry, etc( por la gran cantidad de publicidad que tienen en redes sociales) pero ninguno me terminaba de cerrar. Hasta que en Reddit encontré un post de Fabri sobre el curso de r/Arg Programa y de entrada me pareció maravilloso, me había gustado la pagina, pero lo que mas me sorprendió fue el grupo de Slack y la comunidad que se generó, si hoy en día tengo una duda me puedo apoyar en ese grupo y Fabri mismo te contesta/ayuda.
+
+    Segui haciendo las tareas y Fabri me llamo para poder hacer una pasantía en Shotstack donde entendí el mecanisimo de trabajo y luego me pude unir a ScaleMote gracias a Pablo y Fabri que confiaron en mi y me dieron la oportunidad.
+
+    Lo mas importante de todo es la comunidad que se armó, a veces me ha pasado de estar mambeado por no avanzar, no entender algo y la propia comunidad me ayudó. También los testimonios son de una motivación muy grande para esos momentos.`,
+  },
 ];
 export default testimonios;
