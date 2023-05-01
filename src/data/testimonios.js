@@ -160,6 +160,28 @@ En cuanto al primer empleo en el mundo IT creo que todos pasamos por la misma ex
     En ese momento me di cuenta que esto era lo mío y que me quería dedicar a esto ya que lo disfruto bastante. Un año despues de estudiar de forma intermitente, empecé a buscar trabajo como developer, y luego de varias entrevistas fallidas finalmente quedé como software dev en una empresa.
     Agradecido de por vida a Julián y Fabricio por armar el curso y esta comunidad tan linda`,
   },
+   {
+    nombre: 'Sebastian Carballo',
+    localidad: 'Las Flores, Buenos Aires',
+    edad: 28,
+    puesto: 'Software Developer',
+    testimonio: `Hola mi nombre es Sebastian Carballo, tengo 28 años, soy de la ciudad de Las Flores Prov de Bs.As Argentina.
+Hoy puedo decir que lo estoy logrando:
+Antes que nada, quiero agradecer a Fabricio por la mano que me dio y a todas las personas que forman parte de r/Argentina Programa, una gran comunidad.
+Trabajo desde los 14 años, terminé la secundaria en una escuela para adultos y siempre supe que tenía afinidad por las computadoras.
+Me considero un apasionado por la Tecnología.
+Trabaje 11 años en el oficio grafico (técnico en mantenimiento y reparación de pc, técnico en reparación de máquinas, diseñador(maquetador), atención al público, etc.)
+A lo largo de mi vida laboral recorrí muchos rubros fui albañil, vendedor en la calle, electricista,reparador de pc, industria del calzado, emprendedor.
+¿Por qué digo que lo estoy logrando?
+Después de idas y venids, caídas, de no dejar de intentar una y otra vez, puedo decirlo estoy logrando. lo he logrado!
+El curso de r/Argentina Programa es el curso que te brinda lo fundamental para poder laburar en el mundo IT, te enseña lo necesario sin vueltas, los fundamentos técnicos para comprender lo necesario en el mundo de la programación.
+Hoy formo parte de ScaleMote lo cual estoy muy agradecido.
+ScaleMote me brindo las posibilidades de seguir creciendo, tanto nivel personal,profesional como económico.
+También le agradezco a mi familia por formar parte de esto, por haberme acompañado, una parte de ellos forma parte de ScaleMote.
+Para aquellos que estén dudando, no lo duden, no se van arrepentir.
+De mi parte solo decirles que no dejen de intentarlo,todo se puede.
+ `,
+  },
   {
     nombre: 'Julián Lannóo',
     localidad: 'Rosario, Santa Fe',
