@@ -144,6 +144,13 @@ En cuanto al primer empleo en el mundo IT creo que todos pasamos por la misma ex
     Los siguientes meses fueron de tratar de hacer proyectos, usar Twitter para hacer networking, y aprender cómo se usaban las herramientas con las que trabaja un dev todos los días. A fines de diciembre del 2020 me propuse encontrar trabajo, y empecé a mandar CVs y postularme para diferentes posiciones. Tuve varias entrevistas, pero en la primera que tuve (en Globant) me confirmaron que había quedado como Junior Advance, aunque para trabajar en una tecnología que no conocía (y no me interesaba), entonces lo rechacé.
     Tuve varias entrevistas más sin suerte, hasta que en marzo/abril de este año, alguien que conocí en Twitter, me refirió en Mercado Libre. Después de algunas entrevistas (y un challenge) me hicieron una oferta y en mayo ingresé como Software development analyst (Junior).`,
   },
+   {
+    nombre: 'Lucas Perez',
+    localidad: '9 de Julio, Buenos Aires',
+    edad: 35,
+    puesto: 'Software Developer',
+    testimonio: `A mediados de 2019, con la posibilidad de estudiar a remoto producto de la pandemia, comencé la carrera de Ing. Informática en la Universidad de Buenos Aires. Durante un año y medio tomé los cursos orientados a programación que me sirvieron de fundamento. Sin embargo, pronto me di cuenta que con los conocimientos que había adquirido seguía sin comprender e incluso desconociendo la gran mayoría de las tecnologías que se utilizaban en los diferentes ámbitos profesionales. Llegado a este punto me cuestionaba la inversión en tiempo y esfuerzo que había realizado. Sin embargo, ya habiéndome decidido por lo que en aquel momento entendía como desarrollo de software y de aplicaciones web, seguí buscando espacios de aprendizajes pero está vez más cercanos al mundo laboral. Incursioné en algunos cursos que si bien no cumplían con mis expectativas me permitieron establecer relaciones con otras personas que transitaban o habían transitado mis mismas inquietudes. Una de ellas me indicó el curso de r/argentina programa y me pasó el enlace a una de las clases subidas en youtube. Enseguida comprendí que había encontrado el curso y la comunidad adecuada para continuar mi proceso de formación. Llegado a la clase 18, tanto Fabricio como otros miembros de la comunidad, incluso personas con las que nunca había interactuado, me ayudaron y alentaron para obtener mi primer trabajo como desarrollador de software.`,
+  },
   {
     nombre: 'Diego Castro',
     localidad: 'Puerto Madryn, Chubut',
