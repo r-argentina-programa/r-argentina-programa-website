@@ -349,26 +349,26 @@ Saludos!`,
     edad: 28,
     puesto: 'Software Developer',
     testimonio: `Hola mi nombre es Sebastian Carballo, tengo 28 años, soy de la ciudad de Las Flores Prov de Bs.As Argentina. Hoy puedo decir que "lo estoy logrando".
-    
-    Antes que nada, quiero agradecer a Fabricio por la mano que me dio y a todas las personas que forman parte de r/Argentina Programa, una gran comunidad. 
-    
-    Trabajo desde los 14 años, terminé la secundaria en una escuela para adultos y siempre supe  que tenía afinidad por las computadoras. 
-    
-    Me considero un apasionado por la Tecnología. Trabaje 11 años en el oficio grafico (técnico en mantenimiento y reparación de pc, técnico en reparación de máquinas, diseñador(maquetador), atención al público, etc.) 
-    
-    A lo largo de mi vida laboral recorrí muchos rubros fui albañil, vendedor en la calle, electricista, reparador de pc, industria del calzado, emprendedor. 
-    
-    Después de pasar por tropezones, caídas, de no dejarlo de intentar una y otra vez, puedo decir lo estoy logrando. Lo he logrado! 
 
-    El curso de r/Argentina Programa es el curso que te brinda lo fundamental para poder laburar en el mundo IT, te enseña lo necesario sin vueltas, los fundamentos técnicos para comprender lo necesario en el mundo de la programación. 
-    
-    Hoy formo parte de ScaleMote lo cual estoy muy agradecido. 
-    
-    ScaleMote me brindo esas posibilidades de seguir creciendo, tanto nivel personal como económico. 
-    
-    También le agradezco a mi familia por formar parte de esto, por haberme acompañado, una parte de ellos forma parte de ScaleMote. 
-    
-    Para aquellos que estén dudando, no lo duden no se van arrepentir. De mi parte solo decirles que no dejen de intentarlo 
+    Antes que nada, quiero agradecer a Fabricio por la mano que me dio y a todas las personas que forman parte de r/Argentina Programa, una gran comunidad.
+
+    Trabajo desde los 14 años, terminé la secundaria en una escuela para adultos y siempre supe  que tenía afinidad por las computadoras.
+
+    Me considero un apasionado por la Tecnología. Trabaje 11 años en el oficio grafico (técnico en mantenimiento y reparación de pc, técnico en reparación de máquinas, diseñador(maquetador), atención al público, etc.)
+
+    A lo largo de mi vida laboral recorrí muchos rubros fui albañil, vendedor en la calle, electricista, reparador de pc, industria del calzado, emprendedor.
+
+    Después de pasar por tropezones, caídas, de no dejarlo de intentar una y otra vez, puedo decir lo estoy logrando. Lo he logrado!
+
+    El curso de r/Argentina Programa es el curso que te brinda lo fundamental para poder laburar en el mundo IT, te enseña lo necesario sin vueltas, los fundamentos técnicos para comprender lo necesario en el mundo de la programación.
+
+    Hoy formo parte de ScaleMote lo cual estoy muy agradecido.
+
+    ScaleMote me brindo esas posibilidades de seguir creciendo, tanto nivel personal como económico.
+
+    También le agradezco a mi familia por formar parte de esto, por haberme acompañado, una parte de ellos forma parte de ScaleMote.
+
+    Para aquellos que estén dudando, no lo duden no se van arrepentir. De mi parte solo decirles que no dejen de intentarlo
      `,
   },
   {
@@ -378,6 +378,26 @@ Saludos!`,
     testimonio: `Durante la pandemia, me encontré con mucho tiempo libre y decidí tomar un nuevo rumbo. Estaba estudiando ingeniería industrial, cursaba materias de 4to año, pero realmente sentia que no me gustaba mucho. Fue en ese momento que mi hermano mayor me habló sobre su trabajo como desarrollador y me animó a explorar esta carrera. Me recomendó hacer el curso de "R/Argentina Programa", el cual considero que es un curso muy completo y distinto al resto. Este curso me proporcionó una base sólida en programación y me enseñó habilidades prácticas para trabajar en el mundo real.
     Comencé a estudiar programación y rápidamente me di cuenta de que esto era lo que realmente quería hacer.
     Actualmente me encuentro trabajando para ScaleMote como Full stack developer. No podría estar más feliz con mi carrera actual y estoy emocionado por lo que el futuro me depara como desarrollador.`,
+  },
+  {
+    nombre: 'Lucas Perez',
+    localidad: '9 de Julio, Buenos Aires',
+    edad: 35,
+    puesto: 'Software Developer',
+    testimonio: `A mediados de 2019, con la posibilidad de estudiar a remoto producto de la pandemia, comencé la carrera de Ing. Informática en la Universidad de Buenos Aires. Durante un año y medio tomé los cursos orientados a programación que me sirvieron de fundamento. Sin embargo, pronto me di cuenta que con los conocimientos que había adquirido seguía sin comprender e incluso desconociendo la gran mayoría de las tecnologías que se utilizaban en los diferentes ámbitos profesionales. Llegado a este punto me cuestionaba la inversión en tiempo y esfuerzo que había realizado. Sin embargo, ya habiéndome decidido por lo que en aquel momento entendía como desarrollo de software y de aplicaciones web, seguí buscando espacios de aprendizajes pero está vez más cercanos al mundo laboral. Incursioné en algunos cursos que si bien no cumplían con mis expectativas me permitieron establecer relaciones con otras personas que transitaban o habían transitado mis mismas inquietudes. Una de ellas me indicó el curso de r/argentina programa y me pasó el enlace a una de las clases subidas en youtube. Enseguida comprendí que había encontrado el curso y la comunidad adecuada para continuar mi proceso de formación. Llegado a la clase 18, tanto Fabricio como otros miembros de la comunidad, incluso personas con las que nunca había interactuado, me ayudaron y alentaron para obtener mi primer trabajo como desarrollador de software.`,
+  },
+  {
+    nombre: 'Nico Rivarola',
+    localidad: 'Buenos Aires',
+    edad: 29,
+    puesto: 'Software Developer',
+    testimonio: `Podría escribir un libro con todo lo que tengo para decir en este testimonio, voy a intentar resumirlo.
+Toda la vida me interesaron mucho las PCs y programación especialmente, pero nunca pude aprender programación solo por falta de constancia y disciplina. Intenté mil veces, desde los 12 años hasta los 25 o 26 que me encontré con r/arg-programa.
+Tuve la suerte de ver el primer post de Fabri en reddit, del cual surgió este curso, así que estoy desde el primer día. Haberme sumado al curso me cambió la vida muchísimo más de lo que esperaba y me dio un futuro. El camino no fue facil y hubo montones de veces en que me trababa o me deprimia y dejaba todo por unas semanas… lo importante es no abandonar. Si necesitas un tiempo tomatelo, pero siempre teniendo en la cabeza que vas a ser programador y para eso tenes que volver y seguir haciendo las clases.
+El curso y la comunidad son una maravilla, tanto en calidad como en humanidad. Hubo mucha gente que me apoyo, animo, y ayudo. Es increible, le hablaba por privado a alguien que no conocía y quizas estaba 2 horas explicandome algo! Y asi es toda la comunidad.
+Le recomiendo este curso a todo el mundo, y quizas cuando estas empezando y no sabes programar o no tenes otros cursos con los cuales comparar, no te das cuenta de la calidad de lo que se enseña aca, hasta que avanzas un poco, queres complementar, y ves que en muy pocos lados se enseñan tantas buenas prácticas como acá. Una pequeña anecdota es que a los meses de haber empezado a trabajar me contactaron por LinkedIn de un conocido bootcamp para que sea tutor... la gente que esta acá dando una mano sabe muchisimo mas que yo en ese momento y lo hace de buena onda, no porque es su trabajo.
+Hoy estoy trabajando en ScaleMote, y cada vez que lo pienso me sorprendo de estar donde estoy.
+Gracias infinitas a Fabri Sodano, a Juli Absatz, y a toda la comunidad hermosa que se armó. Aunque el curso es genial en los contenidos, lo que lo separa del resto es la comunidad y la calidad humana de todos los que la forman.`,
   },
 ];
 export default testimonios;
