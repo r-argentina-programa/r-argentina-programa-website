@@ -309,5 +309,75 @@ En cuanto al primer empleo en el mundo IT creo que todos pasamos por la misma ex
 
     Lo mas importante de todo es la comunidad que se armó, a veces me ha pasado de estar mambeado por no avanzar, no entender algo y la propia comunidad me ayudó. También los testimonios son de una motivación muy grande para esos momentos.`,
   },
+  {
+    nombre: 'Nico P.',
+    localidad: 'Tucumán',
+    puesto: 'Software Developer',
+    testimonio: `A los 20 entre a la carrera de Ingeniería en Sistemas, donde conocí lo básico de la programación, pero a mitad del primer cuatrimestre, por cuestiones de la vida tuve que dejar.
+
+Después, básicamente me dedique a atender un kiosco que teníamos en casa hasta los 33 años. En esa época mas o menos, las ventas bajaron y tuvimos que cerrar, por lo que pase a trabajar con un tío mío como "administrativo", transcribiendo de papel a la compu.
+
+A mediados del 2022, encontré a r/Argentina Programa.
+
+Al principio, conseguir un trabajo como developer parecía una meta muy lejana, casi imposible. Pero los testimonios de otras personas te hacían ver que imposible no era.
+
+La verdad, el curso fue ideal para mi por varias razones:
+Primero, es gratuito ( pero muy valioso ).
+Segundo, lo podes hacer a tu ritmo ( si un día estas re motivado, le metes 10 horas, si al otro día tenés otras responsabilidades, le dedicas 1 o 2 horas. Igual cuanto mas consistentes sean mejor ).
+Tercero, que puedas pedir ayuda en la comunidad es clave ( hay muchas veces en las que el problema que estas teniendo no es tan difícil, pero no le encontrás la vuelta porque estas pasando algo por alto. Entonces, un vistazo y un comentario de otra persona te puede hacer ahorrar un montón de tiempo ).
+Cuarto, que te corrijan las tareas te re ayuda a mantenerte motivado y te hace pensar: "Che, esta gente de verdad quiere que lo logre".
+
+En mi caso, si mal no recuerdo, arranque en julio/agosto, llegue hasta la mitad, abandoné por un tiempo, y después retome. Cuando me faltaban una pocas clases para terminar, Fabri me contacto y me dijo que podía tener una entrevista para entrar en la aceleración.
+
+Después de la entrevista, entre en la aceleración paga, donde pude seguir aprendiendo un montón, no solo de cuestiones técnicas, sino también sobre como trabajar en equipo y con un cliente que esta esperando resultados.
+
+Al finalizar la aceleración, entre como back-end developer en ScaleMote, donde estoy ahora.
+
+Así que, anímense, inténtelo, y si fallan vuelvan a intentar.
+Y recuerden, que nunca pierden. Ganan o aprenden.
+
+Ahh, y gracias a todos, a Fabri, a la comunidad, al PM de la aceleración, a los compañeros de la aceleración, al PM actual, al Technical Leader actual, y a mi compañero actual.
+
+Todos siempre con paciencia y excelente predisposición. Sin ellos nunca lo hubiese logrado ( Espero no haberme olvidado de nadie ).
+
+Así que, arranquen, de lo único que se van a arrepentir es de no haber empezado antes.
+Saludos!`,
+  },
+  {
+    nombre: 'Sebastián Carballo',
+    localidad: 'Las Flores, Buenos Aires',
+    edad: 28,
+    puesto: 'Software Developer',
+    testimonio: `Hola mi nombre es Sebastian Carballo, tengo 28 años, soy de la ciudad de Las Flores Prov de Bs.As Argentina. Hoy puedo decir que "lo estoy logrando".
+    
+    Antes que nada, quiero agradecer a Fabricio por la mano que me dio y a todas las personas que forman parte de r/Argentina Programa, una gran comunidad. 
+    
+    Trabajo desde los 14 años, terminé la secundaria en una escuela para adultos y siempre supe  que tenía afinidad por las computadoras. 
+    
+    Me considero un apasionado por la Tecnología. Trabaje 11 años en el oficio grafico (técnico en mantenimiento y reparación de pc, técnico en reparación de máquinas, diseñador(maquetador), atención al público, etc.) 
+    
+    A lo largo de mi vida laboral recorrí muchos rubros fui albañil, vendedor en la calle, electricista, reparador de pc, industria del calzado, emprendedor. 
+    
+    Después de pasar por tropezones, caídas, de no dejarlo de intentar una y otra vez, puedo decir lo estoy logrando. Lo he logrado! 
+
+    El curso de r/Argentina Programa es el curso que te brinda lo fundamental para poder laburar en el mundo IT, te enseña lo necesario sin vueltas, los fundamentos técnicos para comprender lo necesario en el mundo de la programación. 
+    
+    Hoy formo parte de ScaleMote lo cual estoy muy agradecido. 
+    
+    ScaleMote me brindo esas posibilidades de seguir creciendo, tanto nivel personal como económico. 
+    
+    También le agradezco a mi familia por formar parte de esto, por haberme acompañado, una parte de ellos forma parte de ScaleMote. 
+    
+    Para aquellos que estén dudando, no lo duden no se van arrepentir. De mi parte solo decirles que no dejen de intentarlo 
+     `,
+  },
+  {
+    nombre: 'Leonel Tammaro',
+    localidad: 'Buenos Aires',
+    puesto: 'Software Developer',
+    testimonio: `Durante la pandemia, me encontré con mucho tiempo libre y decidí tomar un nuevo rumbo. Estaba estudiando ingeniería industrial, cursaba materias de 4to año, pero realmente sentia que no me gustaba mucho. Fue en ese momento que mi hermano mayor me habló sobre su trabajo como desarrollador y me animó a explorar esta carrera. Me recomendó hacer el curso de "R/Argentina Programa", el cual considero que es un curso muy completo y distinto al resto. Este curso me proporcionó una base sólida en programación y me enseñó habilidades prácticas para trabajar en el mundo real.
+    Comencé a estudiar programación y rápidamente me di cuenta de que esto era lo que realmente quería hacer.
+    Actualmente me encuentro trabajando para ScaleMote como Full stack developer. No podría estar más feliz con mi carrera actual y estoy emocionado por lo que el futuro me depara como desarrollador.`,
+  },
 ];
 export default testimonios;
