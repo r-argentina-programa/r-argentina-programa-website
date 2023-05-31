@@ -99,7 +99,8 @@ export default function Testimonios(props) {
               <CardContent>
                 <Typography variant="h5">{testimonio.nombre}</Typography>
                 <Typography variant="subtitle1">
-                  {testimonio.edad} años - {testimonio.localidad}
+                  {testimonio.edad ? `${testimonio.edad} años - ` : ''}
+                  {testimonio.localidad}
                 </Typography>
                 <Typography variant="subtitle2">{testimonio.puesto}</Typography>
               </CardContent>
