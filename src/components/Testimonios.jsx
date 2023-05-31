@@ -98,9 +98,16 @@ export default function Testimonios(props) {
             <CardActionArea onClick={() => setOpenTestimony(testimonio)}>
               <CardContent>
                 <Typography variant="h5">{testimonio.nombre}</Typography>
-                <Typography variant="subtitle1">
-                  {testimonio.edad} años - {testimonio.localidad}
-                </Typography>
+                {testimonio.edad && (
+                  <Typography variant="subtitle1">
+                    {testimonio.edad} años - {testimonio.localidad}
+                  </Typography>
+                )}
+                {!testimonio.edad && (
+                  <Typography variant="subtitle1">
+                    {testimonio.localidad}
+                  </Typography>
+                )}
                 <Typography variant="subtitle2">{testimonio.puesto}</Typography>
               </CardContent>
             </CardActionArea>
