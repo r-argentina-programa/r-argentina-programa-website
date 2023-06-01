@@ -7,6 +7,7 @@ import Overview from './Overview';
 import Curso from './Curso';
 import FAQ from './FAQ';
 import Testimonios from './Testimonios';
+import Testimonials from './Testimonials';
 import CodigoDeConducta from './CodigoDeConducta';
 import Drawer from '@material-ui/core/Drawer';
 import Hidden from '@material-ui/core/Hidden';
@@ -86,6 +87,7 @@ function Content(props) {
           <Route path="/clases-react" render={() => <Curso react />} />
           <Route path="/faq" component={FAQ} />
           <Route path="/testimonios" component={Testimonios} />
+          <Route path="/testimonials" component={Testimonials} />
           <Route path="/codigo-de-conducta" component={CodigoDeConducta} />
           <Route component={NoMatch} />
         </Switch>
