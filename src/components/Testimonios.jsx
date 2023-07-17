@@ -15,56 +15,63 @@ const useStyles = makeStyles((theme) => ({
     textAlign: 'center',
   },
   title: {
-    marginBottom: 32,
+    marginBottom: theme.spacing(4),
   },
   testimonios: {
     display: 'flex',
     justifyContent: 'center',
     flexWrap: 'wrap',
-    '& > *': {
-      margin: theme.spacing(1),
-    },
+    gap: theme.spacing(2),
   },
   testimonio: {
     width: theme.spacing(50),
+    [theme.breakpoints.down('sm')]: {
+      width: theme.spacing(40),
+    },
+    [theme.breakpoints.down('xs')]: {
+      width: '100%',
+    },
+    [theme.breakpoints.down(321)]: {
+      width: theme.spacing(30),
+    },
+  },
+  testimonioContent: {
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
+    textAlign: 'center',
+    padding: theme.spacing(2),
+  },
+  testimonioNombre: {
+    marginBottom: theme.spacing(1),
+    fontWeight: 'bold',
+  },
+  testimonioInfo: {
+    marginBottom: theme.spacing(1),
+  },
+  testimonioPuesto: {
+    fontWeight: 'bold',
   },
   openTestimony: {
-    textAlign: 'center',
     position: 'absolute',
     top: '50%',
     left: '50%',
     transform: 'translate(-50%, -50%)',
     backgroundColor: theme.palette.background.paper,
     boxShadow: theme.shadows[5],
-    padding: theme.spacing(2),
+    padding: theme.spacing(4),
+    width: '80%',
+    maxHeight: '80%',
+    overflow: 'auto',
     [theme.breakpoints.down('xs')]: {
       width: '100%',
       height: '100%',
-      padding: theme.spacing(1, 2, 2),
-    },
-    '& > *': {
-      boxSizing: 'border-box',
-      display: 'flex',
-      flexDirection: 'column',
-      width: theme.spacing(100),
-      maxHeight: theme.spacing(75),
-      [theme.breakpoints.down('md')]: {
-        width: theme.spacing(90),
-        maxHeight: theme.spacing(50),
-      },
-      [theme.breakpoints.down('sm')]: {
-        width: theme.spacing(60),
-      },
-      [theme.breakpoints.down('xs')]: {
-        width: '100%',
-        maxHeight: '100%',
-      },
+      padding: theme.spacing(2),
     },
   },
-  openTestimonyBody: {
-    marginTop: theme.spacing(4),
-    overflow: 'auto',
-    flexGrow: 1,
+  openTestimonyTitle: {
+    marginBottom: theme.spacing(2),
+    fontWeight: 'bold',
   },
   openTestimonyLine: {
     textAlign: 'left',
@@ -72,8 +79,8 @@ const useStyles = makeStyles((theme) => ({
   },
   closeIcon: {
     position: 'absolute',
-    top: theme.spacing(1),
-    right: theme.spacing(1),
+    top: theme.spacing(2),
+    right: theme.spacing(2),
     cursor: 'pointer',
   },
 }));
