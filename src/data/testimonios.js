@@ -1,5 +1,14 @@
 const testimonios = [
   {
+    nombre: 'Agustín Ramunno',
+    localidad: 'Mar del Plata, Buenos Aires',
+    edad: 22,
+    puesto: 'Software Developer',
+    testimonio: `Después de investigar y leer me encontré con este curso al que me pude acoplar de forma excelente.
+    Las prácticas profesionales que se fomentan dentro de la comunidad me ayudaron muchísimo a llevar mi conocimiento a otro nivel, la forma de enseñar de Fabri + el curso de React de Julián me sirvieron como una base para conseguir mi primer empleo IT.
+    Si están haciendo este curso, no bajen los brazos,  el camino de aprender es realmente hermoso y lo que te devuelve es increíble, todo llega a quienes se esfuerzan, y la comunidad siempre va a estar para ayudarlos.`,
+  },
+  {
     nombre: 'Agostina Arevalo Jaube',
     localidad: 'Ciudad de Córdoba, Córdoba',
     edad: 27,
