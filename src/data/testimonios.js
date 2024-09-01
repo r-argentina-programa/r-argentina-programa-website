@@ -410,7 +410,7 @@ Gracias infinitas a Fabri Sodano, a Juli Absatz, y a toda la comunidad hermosa q
   },
   {
     nombre: 'Tomás Redondo',
-    localidad: 'Los Cardenales, Buenos Aires',
+    localidad: 'Los Cardales, Buenos Aires',
     puesto: 'Software Developer',
     testimonio: `Fabri! como andas? Te escribo totalmente random jajaja pero estaba pasándome de nuevo por el slack que lo tengo un poco abandonado y quería aprovechar para darte las gracias por todo, realmente todo esto me cambió la vida. Me pongo a ver para atrás y pienso como de ser ayudante de piletero en el día y aprovechar el resto del tiempo para meterle al curso pasé a ahora a estar viviendo de esto que me encanta y, por ejemplo, estar planeando un viaje con mi novia (que antes me hubiera sido completamente imposible). Se que te lo habrán dicho muchísimo pero, en serio, me cambió la vida. De nuevo, muchísimas gracias por todo. Te mando un abrazo muy grande y muchos éxitos más para Bigger!`,
   },
