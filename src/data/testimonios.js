@@ -418,6 +418,15 @@ Hoy estoy trabajando en ScaleMote, y cada vez que lo pienso me sorprendo de esta
 Gracias infinitas a Fabri Sodano, a Juli Absatz, y a toda la comunidad hermosa que se armó. Aunque el curso es genial en los contenidos, lo que lo separa del resto es la comunidad y la calidad humana de todos los que la forman.`,
   },
   {
+    nombre: 'Facundo Castillo',
+    localidad: 'San Juan, Argentina',
+    puesto: 'Full Stack Develope',
+    testimonio: `A finales de diciembre de 2022 decidí dejar mi carrera de abogacía luego de darme cuenta de que no era para mí y decidí que empezaría a estudiar programación en 2023. Al inicio no tenía ni idea de que se hacía en programación ni por donde empezar y opte por entrar en r/Argentina Programa cuando encontré un post en reddit y realmente me gusto como Fabricio explicaba y enseñaba lo que me animo muchísimo para empezar a estudiar seriamente con la idea de obtener un trabajo. Le dedique muchísimas horas cada día y a cada clase, tratando de aprender todo lo posible y eventualmente cuando termine la clase 19, Fabricio me ofreció una entrevista en ScaleMote ahora Bigger.
+La primera entrevista no me fue muy bien, aparte de que estaba muy nervioso, tampoco estaba tan preparado, ya que me faltaba terminar las clases de React. Sin embargo, Jose -quien me entrevistó y que es un crack total- me guio y me señaló que podía mejorar y que podia aprender, mencionando una segunda oportunidad y aproveche la posibilidad de esa segunda oportunidad aprendiendo cosas más allá del curso inicial. Aprendí React, Tailwind, Typescript y Nestjs e hice dos proyectos completamente desde cero, de tal modo que en la segunda entrevista pude entrar a Bigger.
+Este curso no solamente me ofreció el conocimiento para iniciar, sino que también las herramientas y la mentalidad para continuar estudiando más allá del curso inicial. Ni hablar de la comunidad que responde dudas y te da una mano, consejos y comentarios para ayudar y por último Fabricio que me dio la oportunidad para entrar a Bigger donde he aprendido un montón y he trabajado con personas que también me han enseñado muchísimo.
+Cuando estaba empezando los testimonios me motivaban muchísimos para seguir estudiando y espero que el mío también motive a otros que están empezando.`,
+  },
+  {
     nombre: 'Tomás Redondo',
     localidad: 'Los Cardales, Buenos Aires',
     puesto: 'Software Developer',
