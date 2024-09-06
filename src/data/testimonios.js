@@ -39,19 +39,20 @@ const testimonios = [
     localidad: 'La Matanza, Buenos Aires',
     edad: 28,
     puesto: 'Software Developer en Blue Alba',
-    testimonio: `En 2023 estaba a punto de comprarme un curso en coderhouse pero me recomendaron r/Argentina-Programa justo a tiempo. ¡Y que bueno que no pagué por el primero! Terminé llevando mucho mejor las clases asincrónicas, y el apoyo de la comunidad siempre me empujó a seguir adelante.
-Aunque vi todas las clases, no hice las últimas tareas porque ya para entonces estaba investigando nuevas tecnologías por mi cuenta para mi primer proyecto freelance. Sin la ayuda de r/Argentina-Programa nunca habría sabido por dónde empezar.
-Ahora conseguí un trabajo como programador full stack, y no podría estar mas feliz.`,
+    testimonio: `Trabajé 10 años como carpintero desde que terminé el colegio, en septiembre de 2019 vi el post de Fabricio en Reddit contando que iba a dar clases de programación y decidí participar, a mis 28 años.
+    El grupo que se formó me motivó muchísimo, estudié un poco todos los días sin falta, costó mucho pero hice las tareas y no quise abandonar.
+    Así estuve por 6 meses, en marzo de 2020 empezó la cuarentena en Argentina y no pude ir más a la carpintería, en ese tiempo aproveché y empecé a hacer proyectos con lo aprendido, a publicarlos en LinkedIn y a repartir CVs, en abril me contactaron para una entrevista, y en mayo arranqué mi primer trabajo como desarrollador en Blue Alba.
+    Mi vida cambió completamente, gracias al esfuerzo y a toda la gente que participa en el curso pude darle un futuro a mi vida personal y profesional. Hoy en día intento ayudar lo mas posible a quienes están arrancando a ver las clases, un poco en forma de agradecimiento y un poco para seguir aprendiendo.
+`,
   },
   {
     nombre: 'Timothy Burton',
     localidad: 'Bariloche, Río Negro, Argentina',
     edad: 27,
     puesto: 'Junior Fullstack Developer - Software On The Road ',
-    testimonio: `Trabajé 10 años como carpintero desde que terminé el colegio, en septiembre de 2019 vi el post de Fabricio en Reddit contando que iba a dar clases de programación y decidí participar, a mis 28 años.
-    El grupo que se formó me motivó muchísimo, estudié un poco todos los días sin falta, costó mucho pero hice las tareas y no quise abandonar.
-    Así estuve por 6 meses, en marzo de 2020 empezó la cuarentena en Argentina y no pude ir más a la carpintería, en ese tiempo aproveché y empecé a hacer proyectos con lo aprendido, a publicarlos en LinkedIn y a repartir CVs, en abril me contactaron para una entrevista, y en mayo arranqué mi primer trabajo como desarrollador en Blue Alba.
-    Mi vida cambió completamente, gracias al esfuerzo y a toda la gente que participa en el curso pude darle un futuro a mi vida personal y profesional. Hoy en día intento ayudar lo mas posible a quienes están arrancando a ver las clases, un poco en forma de agradecimiento y un poco para seguir aprendiendo.`,
+    testimonio: `En 2023 estaba a punto de comprarme un curso en coderhouse pero me recomendaron r/Argentina-Programa justo a tiempo. ¡Y que bueno que no pagué por el primero! Terminé llevando mucho mejor las clases asincrónicas, y el apoyo de la comunidad siempre me empujó a seguir adelante.
+Aunque vi todas las clases, no hice las últimas tareas porque ya para entonces estaba investigando nuevas tecnologías por mi cuenta para mi primer proyecto freelance. Sin la ayuda de r/Argentina-Programa nunca habría sabido por dónde empezar.
+Ahora conseguí un trabajo como programador full stack, y no podría estar mas feliz.`,
   },
   {
     nombre: 'Hernán P.',
